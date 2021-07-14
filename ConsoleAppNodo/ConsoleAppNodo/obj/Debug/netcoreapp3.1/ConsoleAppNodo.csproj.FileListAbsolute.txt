@@ -1,0 +1,13 @@
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\bin\Debug\netcoreapp3.1\ConsoleAppNodo.exe
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\bin\Debug\netcoreapp3.1\ConsoleAppNodo.deps.json
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\bin\Debug\netcoreapp3.1\ConsoleAppNodo.runtimeconfig.json
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\bin\Debug\netcoreapp3.1\ConsoleAppNodo.runtimeconfig.dev.json
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\bin\Debug\netcoreapp3.1\ConsoleAppNodo.dll
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\bin\Debug\netcoreapp3.1\ConsoleAppNodo.pdb
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\obj\Debug\netcoreapp3.1\ConsoleAppNodo.csproj.AssemblyReference.cache
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\obj\Debug\netcoreapp3.1\ConsoleAppNodo.AssemblyInfoInputs.cache
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\obj\Debug\netcoreapp3.1\ConsoleAppNodo.AssemblyInfo.cs
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\obj\Debug\netcoreapp3.1\ConsoleAppNodo.csproj.CoreCompileInputs.cache
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\obj\Debug\netcoreapp3.1\ConsoleAppNodo.dll
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\obj\Debug\netcoreapp3.1\ConsoleAppNodo.pdb
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNodo\ConsoleAppNodo\obj\Debug\netcoreapp3.1\ConsoleAppNodo.genruntimeconfig.cache

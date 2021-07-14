@@ -1,0 +1,13 @@
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\bin\Debug\netcoreapp3.1\ConsoleAppLotes.exe
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\bin\Debug\netcoreapp3.1\ConsoleAppLotes.deps.json
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\bin\Debug\netcoreapp3.1\ConsoleAppLotes.runtimeconfig.json
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\bin\Debug\netcoreapp3.1\ConsoleAppLotes.runtimeconfig.dev.json
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\bin\Debug\netcoreapp3.1\ConsoleAppLotes.dll
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\bin\Debug\netcoreapp3.1\ConsoleAppLotes.pdb
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\obj\Debug\netcoreapp3.1\ConsoleAppLotes.csproj.AssemblyReference.cache
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\obj\Debug\netcoreapp3.1\ConsoleAppLotes.AssemblyInfoInputs.cache
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\obj\Debug\netcoreapp3.1\ConsoleAppLotes.AssemblyInfo.cs
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\obj\Debug\netcoreapp3.1\ConsoleAppLotes.csproj.CoreCompileInputs.cache
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\obj\Debug\netcoreapp3.1\ConsoleAppLotes.dll
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\obj\Debug\netcoreapp3.1\ConsoleAppLotes.pdb
+C:\Users\Clautides\source\repos\TestesVerion\Lotes\ConsoleAppLotes\ConsoleAppLotes\obj\Debug\netcoreapp3.1\ConsoleAppLotes.genruntimeconfig.cache

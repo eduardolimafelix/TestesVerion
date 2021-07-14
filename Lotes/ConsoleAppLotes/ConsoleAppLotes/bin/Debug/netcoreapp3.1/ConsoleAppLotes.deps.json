@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppLotes/1.0.0": {
+        "runtime": {
+          "ConsoleAppLotes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppLotes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

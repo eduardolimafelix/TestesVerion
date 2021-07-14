@@ -1,0 +1,13 @@
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\bin\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.exe
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\bin\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.deps.json
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\bin\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.runtimeconfig.json
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\bin\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.runtimeconfig.dev.json
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\bin\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.dll
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\bin\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.pdb
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\obj\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.csproj.AssemblyReference.cache
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\obj\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.AssemblyInfoInputs.cache
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\obj\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.AssemblyInfo.cs
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\obj\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\obj\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.dll
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\obj\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.pdb
+C:\Users\Clautides\source\repos\ConsoleAppFuncRecursiva\ConsoleAppFuncRecursiva\obj\Debug\netcoreapp3.1\ConsoleAppFuncRecursiva.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Clautides\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Clautides\\.nuget\\packages"
+    ]
+  }
+}

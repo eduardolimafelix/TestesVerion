@@ -1,0 +1,13 @@
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\obj\Debug\netcoreapp3.1\ConsoleAppOrdenacao.csproj.AssemblyReference.cache
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\obj\Debug\netcoreapp3.1\ConsoleAppOrdenacao.AssemblyInfoInputs.cache
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\obj\Debug\netcoreapp3.1\ConsoleAppOrdenacao.AssemblyInfo.cs
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\obj\Debug\netcoreapp3.1\ConsoleAppOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\bin\Debug\netcoreapp3.1\ConsoleAppOrdenacao.exe
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\bin\Debug\netcoreapp3.1\ConsoleAppOrdenacao.deps.json
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\bin\Debug\netcoreapp3.1\ConsoleAppOrdenacao.runtimeconfig.json
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\bin\Debug\netcoreapp3.1\ConsoleAppOrdenacao.runtimeconfig.dev.json
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\bin\Debug\netcoreapp3.1\ConsoleAppOrdenacao.dll
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\bin\Debug\netcoreapp3.1\ConsoleAppOrdenacao.pdb
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\obj\Debug\netcoreapp3.1\ConsoleAppOrdenacao.dll
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\obj\Debug\netcoreapp3.1\ConsoleAppOrdenacao.pdb
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppOrdenacao\ConsoleAppOrdenacao\obj\Debug\netcoreapp3.1\ConsoleAppOrdenacao.genruntimeconfig.cache

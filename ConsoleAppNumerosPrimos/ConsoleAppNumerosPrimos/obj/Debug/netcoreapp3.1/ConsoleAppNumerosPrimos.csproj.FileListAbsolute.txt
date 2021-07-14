@@ -1,0 +1,13 @@
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\obj\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.csproj.AssemblyReference.cache
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\obj\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\obj\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.AssemblyInfo.cs
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\obj\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\bin\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.exe
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\bin\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.deps.json
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\bin\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.runtimeconfig.json
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\bin\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.runtimeconfig.dev.json
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\bin\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.dll
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\bin\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.pdb
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\obj\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.dll
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\obj\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.pdb
+C:\Users\Clautides\source\repos\TestesVerion\ConsoleAppNumerosPrimos\ConsoleAppNumerosPrimos\obj\Debug\netcoreapp3.1\ConsoleAppNumerosPrimos.genruntimeconfig.cache
